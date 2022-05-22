@@ -68,11 +68,12 @@
     background-color: var(--accent-colour);
 }
 
-/* features */
-.feature-list .text{
+/* advantages */
+.advantages-list .text{
     color: var(--secondary-text-colour);
 }
 
+/* team */
 .team{
     background-color:#F5F4FA ;
 }
